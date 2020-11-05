@@ -8777,3 +8777,8 @@ Make sure 'Mummy_Win_C' has been compiled for  Get  Mummy Ready
 [2020.11.05-14.44.53:536][874]LogExit: Transaction tracking system shut down
 [2020.11.05-14.44.57:073][874]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E780767380), frame # 565874
 [2020.11.05-14.44.57:073][874]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E8DF05D400), frame # 565874
+[2020.11.05-14.45.45:525][874]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000001E7EBD0E980), frame # 565874
+[2020.11.05-14.45.45:525][874]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001E7ECB9AAC0), frame # 565874
+[2020.11.05-14.45.45:572][874]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001E7ECBD5C00), frame # 565874
+[2020.11.05-14.45.56:914][874]LogExit: Object subsystem successfully closed.
+[2020.11.05-14.46.00:170][874]LogShaderCompilers: Display: Shaders left to compile 0
