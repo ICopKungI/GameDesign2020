@@ -2894,3 +2894,261 @@ Purging the undo buffer...
 [2020.11.20-12.50.40:991][430]AssetCheck: New page: Asset Save: multiple assets
 [2020.11.20-12.50.40:991][430]LogContentValidation: Display: Validating World /Game/Project_Game/Maps/UI/Game.Game
 [2020.11.20-12.50.40:991][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Project_Game/Maps/UI/Game_BuiltData.Game_BuiltData
+[2020.11.20-13.00.40:892][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.11.20-13.00.40:895][238]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project_Game/Maps/UI/Game' took 0.030
+[2020.11.20-13.00.40:896][238]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project_Game/Blueprints/Item/Rocket_model/defaultMat] ([1] browsable assets)...
+[2020.11.20-13.00.40:923][238]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Project_Game/Blueprints/Item/Rocket_model/defaultMat.defaultMat]
+[2020.11.20-13.00.40:923][238]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project_Game/Blueprints/Item/Rocket_model/defaultMat]
+[2020.11.20-13.00.40:952][238]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/defaultMat_Auto17C018ACD42DFE7D8130B3B82BEF43060.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Autosaves/Game/Project_Game/Blueprints/Item/Rocket_model/defaultMat_Auto1.uasset'
+[2020.11.20-13.00.40:952][238]LogFileHelpers: Auto-saving content packages took 0.057
+[2020.11.20-13.23.28:826][321]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-13.23.28:826][321]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-13.29.53:066][809]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.20-13.32.13:517][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.11.20-13.32.14:573][890]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.20-13.32.14:786][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.11.20-13.32.14:810][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.11.20-13.32.14:830][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.20-13.32.14:850][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.20-13.32.14:869][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.20-13.32.14:887][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.14:906][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.20-13.32.14:929][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.11.20-13.32.14:950][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.20-13.32.14:968][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.20-13.32.14:997][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.15:020][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.11.20-13.32.15:042][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.11.20-13.32.15:064][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.15:101][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.11.20-13.32.15:121][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.20-13.32.34:053][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.11.20-13.32.35:967][737]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.20-13.32.36:415][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.11.20-13.32.36:435][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.36:454][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.20-13.32.36:474][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:493][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.20-13.32.36:512][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:530][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.20-13.32.36:550][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.11.20-13.32.36:568][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.20-13.32.36:587][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:606][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.11.20-13.32.36:640][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:658][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.20-13.32.36:677][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.36:695][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.36:715][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:734][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.11.20-13.32.36:752][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:771][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.20-13.32.36:789][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:808][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.11.20-13.32.36:841][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2020.11.20-13.32.36:860][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.11.20-13.32.36:879][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.20-13.32.36:899][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.20-13.32.36:918][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.20-13.32.36:937][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.36:958][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.20-13.32.36:977][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.11.20-13.32.36:998][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:019][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:044][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.11.20-13.32.37:064][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:086][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.11.20-13.32.37:108][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.37:128][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2020.11.20-13.32.37:148][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.37:168][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:189][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.37:210][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:231][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:258][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.37:279][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:299][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2020.11.20-13.32.37:322][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.37:343][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:364][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:385][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:406][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:429][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:451][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.37:474][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:496][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:518][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:539][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2020.11.20-13.32.37:561][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:582][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:606][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:629][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.37:653][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.37:681][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:705][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.11.20-13.32.37:728][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2020.11.20-13.32.37:753][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.37:778][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.37:802][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.20-13.32.37:826][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.37:848][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.37:870][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.11.20-13.32.37:894][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.20-13.32.37:929][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.11.20-13.32.37:953][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.11.20-13.32.45:509][457]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: 'ิ (U+0e34)'
+[2020.11.20-13.32.45:517][457]LogSlate: Took 0.006702 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.11.20-13.32.47:468][630]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-13.32.47:468][630]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.11.20-13.32.55:734][238]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Oil\Desktop\3dd\boxxx.fbx)
+[2020.11.20-13.32.55:753][238]LogFbx: Loading FBX Scene from C:\Users\Oil\Desktop\3dd\boxxx.fbx
+[2020.11.20-13.32.55:767][238]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.20-13.32.57:008][238]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.20-13.32.57:284][238]LogTexture: Display: Building textures: 3_2 (AutoDXT, 512X512)
+[2020.11.20-13.32.57:373][238]LogTexture: Display: Building textures: 4_2 (AutoDXT, 32X32)
+[2020.11.20-13.32.57:377][238]LogMaterial: Display: Missing cached shader map for material Material_32, compiling. 
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.20-13.32.57:396][238]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.11.20-13.32.57:397][238]LogStaticMesh: Building static mesh boxxx...
+[2020.11.20-13.32.57:434][238]LogStaticMesh: Built static mesh [0.04s] /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.32.57:445][238]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.20-13.32.59:828][374]LogSlate: Window 'Message Log' being destroyed
+[2020.11.20-13.32.59:838][374]LogSlate: Window 'Message Log' being destroyed
+[2020.11.20-13.33.06:556][ 26]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Project_Game/Blueprints/Item/box/3_2.3_2
+[2020.11.20-13.33.06:570][ 26]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2020.11.20-13.33.09:316][216]LogSlate: Window '3_2' being destroyed
+[2020.11.20-13.33.09:322][216]LogSlate: Window '3_2' being destroyed
+[2020.11.20-13.33.09:322][216]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.33.09:322][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.33.10:290][301]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.33.10:482][301]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.33.10:482][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.33.14:734][666]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.33.14:741][666]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.33.14:742][666]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.33.14:743][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.33.15:858][771]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Project_Game/Blueprints/Item/box/4_2.4_2
+[2020.11.20-13.33.21:458][288]LogSlate: Window '4_2' being destroyed
+[2020.11.20-13.33.21:464][288]LogSlate: Window '4_2' being destroyed
+[2020.11.20-13.33.23:278][484]LogActorFactory: Actor Factory created boxxx
+[2020.11.20-13.33.23:813][545]LogActorFactory: Actor Factory created boxxx
+[2020.11.20-13.33.25:493][741]Cmd: SELECT NONE
+[2020.11.20-13.33.27:445][955]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Project_Game/Blueprints/Item/box/Material_32.Material_32
+[2020.11.20-13.33.27:446][955]LogMaterial: Display: Missing cached shader map for material Material_32, compiling. 
+[2020.11.20-13.33.27:557][955]LogMaterial: Display: Missing cached shader map for material Material_32, compiling. 
+[2020.11.20-13.33.27:564][955]LogMaterial: Display: Missing cached shader map for material Material_32, compiling. 
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.20-13.33.27:573][955]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.11.20-13.33.27:576][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.11.20-13.33.27:582][955]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.11.20-13.33.28:771][988]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.11.20-13.33.28:887][993]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.11.20-13.33.29:272][  7]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2020.11.20-13.33.29:405][ 12]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.11.20-13.33.29:478][ 15]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.11.20-13.33.29:517][ 17]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.11.20-13.33.29:539][ 18]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.11.20-13.33.29:581][ 20]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.11.20-13.33.29:682][ 25]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.11.20-13.33.29:718][ 26]MaterialEditorStats: Base pass shader: 121 instructions
+[2020.11.20-13.33.29:718][ 26]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 195 instructions
+[2020.11.20-13.33.29:718][ 26]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.11.20-13.33.29:719][ 26]MaterialEditorStats: Texture samplers: 4/16
+[2020.11.20-13.33.29:719][ 26]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.11.20-13.33.29:719][ 26]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.11.20-13.33.31:150][114]LogSlate: Window 'Material_32' being destroyed
+[2020.11.20-13.33.31:160][114]LogSlate: Window 'Material_32' being destroyed
+[2020.11.20-13.33.31:189][114]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.33.31:189][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.33.35:550][593]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.33.35:767][593]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.33.35:767][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.33.51:954][998]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.33.51:961][998]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.33.51:963][998]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.33.51:963][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.34.00:642][252]LogEditorFactories: Performing atomic reimport of [C:/Users/Oil/Desktop/3dd/boxxx.fbx]
+[2020.11.20-13.34.00:681][252]LogFbx: Loading FBX Scene from C:/Users/Oil/Desktop/3dd/boxxx.fbx
+[2020.11.20-13.34.00:692][252]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.20-13.34.00:737][252]LogStaticMesh: Building static mesh boxxx...
+[2020.11.20-13.34.00:770][252]LogStaticMesh: Built static mesh [0.03s] /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.34.00:786][252]LogEditorFactories: -- imported successfully
+[2020.11.20-13.34.00:788][252]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.20-13.34.02:510][262]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.34.02:671][262]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.34.02:671][262]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.34.05:001][451]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.34.05:009][451]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.34.05:011][451]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.34.05:011][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.34.11:462][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.11.20-13.34.12:863][ 92]LogSlate: Window 'Delete Assets' being destroyed
+[2020.11.20-13.34.14:226][ 92]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.34.15:477][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.11.20-13.34.21:883][251]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Oil\Desktop\3dd\boxxx.fbx)
+[2020.11.20-13.34.21:892][251]LogFbx: Loading FBX Scene from C:\Users\Oil\Desktop\3dd\boxxx.fbx
+[2020.11.20-13.34.21:905][251]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.20-13.34.23:847][251]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.11.20-13.34.23:879][251]LogStaticMesh: Building static mesh boxxx...
+[2020.11.20-13.34.23:913][251]LogStaticMesh: Built static mesh [0.03s] /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.34.23:922][251]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.20-13.34.30:011][946]LogSlate: Window 'Message Log' being destroyed
+[2020.11.20-13.34.30:016][946]LogSlate: Window 'Message Log' being destroyed
+[2020.11.20-13.34.31:470][ 98]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.34.31:662][ 98]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.34.31:662][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.34.45:305][472]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.34.45:313][472]LogSlate: Window 'boxxx' being destroyed
+[2020.11.20-13.34.45:315][472]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2020.11.20-13.34.45:315][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.20-13.35.09:886][615]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.11.20-13.35.09:948][615]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Game_Auto216DAB5EE49BB70328E003CB9EF99198D.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Autosaves/Game/Project_Game/Maps/UI/Game_Auto2.umap'
+[2020.11.20-13.35.09:953][615]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Project_Game/Maps/UI/Game' took 0.131
+[2020.11.20-13.35.09:953][615]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.131
+[2020.11.20-13.35.09:954][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project_Game/Blueprints/Item/box/4_2] ([1] browsable assets)...
+[2020.11.20-13.35.09:955][615]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Project_Game/Blueprints/Item/box/4_2.4_2]
+[2020.11.20-13.35.09:955][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project_Game/Blueprints/Item/box/4_2]
+[2020.11.20-13.35.09:961][615]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/4_2_Auto28688AD264A8B5AAE59C0038C82FFAE70.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Autosaves/Game/Project_Game/Blueprints/Item/box/4_2_Auto2.uasset'
+[2020.11.20-13.35.09:962][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project_Game/Blueprints/Item/box/Material_32] ([1] browsable assets)...
+[2020.11.20-13.35.09:997][615]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Project_Game/Blueprints/Item/box/Material_32.Material_32]
+[2020.11.20-13.35.09:997][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project_Game/Blueprints/Item/box/Material_32]
+[2020.11.20-13.35.10:008][615]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Material_32_Auto277C203E048454D4ACCE89D8B917AD067.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Autosaves/Game/Project_Game/Blueprints/Item/box/Material_32_Auto2.uasset'
+[2020.11.20-13.35.10:009][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project_Game/Blueprints/Item/box/3_2] ([1] browsable assets)...
+[2020.11.20-13.35.10:014][615]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Project_Game/Blueprints/Item/box/3_2.3_2]
+[2020.11.20-13.35.10:014][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project_Game/Blueprints/Item/box/3_2]
+[2020.11.20-13.35.10:024][615]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/3_2_Auto25AA5FD544CE8EF358ED9AE9C466507D7.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Autosaves/Game/Project_Game/Blueprints/Item/box/3_2_Auto2.uasset'
+[2020.11.20-13.35.10:025][615]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Project_Game/Blueprints/Item/box/boxxx] ([1] browsable assets)...
+[2020.11.20-13.35.10:050][615]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx]
+[2020.11.20-13.35.10:050][615]OBJ SavePackage: Finished generating thumbnails for package [/Game/Project_Game/Blueprints/Item/box/boxxx]
+[2020.11.20-13.35.10:064][615]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/boxxx_Auto22AA99D33480F689150F522B295ABED27.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Autosaves/Game/Project_Game/Blueprints/Item/box/boxxx_Auto2.uasset'
+[2020.11.20-13.35.10:064][615]LogFileHelpers: Auto-saving content packages took 0.111
+[2020.11.20-13.40.08:860][527]LogEditorFactories: Performing atomic reimport of [C:/Users/Oil/Desktop/3dd/boxxx.fbx]
+[2020.11.20-13.40.08:915][527]LogFbx: Loading FBX Scene from C:/Users/Oil/Desktop/3dd/boxxx.fbx
+[2020.11.20-13.40.08:931][527]LogFbx: FBX Scene Loaded Succesfully
+[2020.11.20-13.40.08:979][527]LogStaticMesh: Building static mesh boxxx...
+[2020.11.20-13.40.09:018][527]LogStaticMesh: Built static mesh [0.04s] /Game/Project_Game/Blueprints/Item/box/boxxx.boxxx
+[2020.11.20-13.40.11:069][527]LogSlate: Window 'Reimport Material Conflicts Resolution' being destroyed
+[2020.11.20-13.40.11:075][527]LogEditorFactories: -- imported successfully
+[2020.11.20-13.40.11:087][527]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.11.20-13.40.13:764][719]LogActorFactory: Actor Factory created boxxx
+[2020.11.20-13.40.14:233][775]LogActorFactory: Actor Factory created boxxx
+[2020.11.20-13.40.22:736][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.20-13.40.34:076][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (boxxx2)
+[2020.11.20-13.40.35:158][272]Cmd: DELETE
+[2020.11.20-13.40.35:158][272]Cmd: ACTOR DELETE
+[2020.11.20-13.40.35:170][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.11.20-13.40.35:213][272]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.11.20-13.40.35:219][272]LogEditorActor: Deleted 1 Actors (0.059 secs)
