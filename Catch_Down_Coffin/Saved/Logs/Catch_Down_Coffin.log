@@ -663,3 +663,102 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.19-10.52.49:040][328]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Raedy.Raedy
 [2020.12.19-10.52.49:255][328]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
 [2020.12.19-10.52.50:503][328]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.19-10.55.03:723][593]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Oil\Desktop\img_to_UI\mummycut_use.png)
+[2020.12.19-10.55.03:729][593]LogTexture: Display: Building textures: mummycut_use (AutoDXT, 304X480)
+[2020.12.19-10.55.05:957][636]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Oil\Desktop\img_to_UI\coffin_cut_use.png)
+[2020.12.19-10.55.05:961][636]LogTexture: Display: Building textures: coffin_cut_use (AutoDXT, 304X480)
+[2020.12.19-10.55.17:728][497]LogSlate: Took 0.009958 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.12.19-10.56.04:909][491]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Raedy04C62922412762F77A7B7AA24D42B51B.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/UI_Widget/Raedy.uasset'
+[2020.12.19-10.56.04:926][491]AssetCheck: New page: Asset Save: Raedy
+[2020.12.19-10.56.04:927][491]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Raedy.Raedy
+[2020.12.19-10.57.48:762][188]LogEditorTransaction: Undo Move Widget
+[2020.12.19-10.59.36:749][487]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Raedy772314E24CED133F8EF95084B6F644BF.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/UI_Widget/Raedy.uasset'
+[2020.12.19-10.59.36:766][487]AssetCheck: New page: Asset Save: Raedy
+[2020.12.19-10.59.36:766][487]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Raedy.Raedy
+[2020.12.19-10.59.38:925][694]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Main.Main
+[2020.12.19-10.59.39:413][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:413][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:413][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:413][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:413][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:413][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:414][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:414][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Trap.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:416][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:416][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:416][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:416][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:416][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:416][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:416][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:417][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:418][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:418][694]LoadErrors: Failed to load /Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle.uploads_files_635558_Trap_Needle_Needle Referenced by a_GEN_VARIABLE
+[2020.12.19-10.59.39:419][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:419][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:419][694]LoadErrors: Failed to load /Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle.uploads_files_635558_Trap_Needle_Trap_Needle Referenced by b_GEN_VARIABLE
+[2020.12.19-10.59.39:419][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Trap_Needle': Can't find file.
+[2020.12.19-10.59.39:460][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:460][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:463][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:463][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:463][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:463][694]LoadErrors: Failed to load /Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle.uploads_files_635558_Trap_Needle_Needle Referenced by Default__Catch_Down_Coffin_Game_Mode_C
+[2020.12.19-10.59.39:463][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/Item/Rocket.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:624][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/System/Catch_Down_Coffin_Game_Mode.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:624][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/System/Catch_Down_Coffin_Game_Mode.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:625][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/System/Catch_Down_Coffin_Game_Mode.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:625][694]LogLinker: Warning: While loading '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/System/Catch_Down_Coffin_Game_Mode.uasset' failed to load '/Game/Project_Game/Blueprints/Item/trap/uploads_files_635558_Trap_Needle_Needle': Can't find file.
+[2020.12.19-10.59.39:895][694]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Game.Game
+[2020.12.19-10.59.40:344][694]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Coffin_Win.Coffin_Win
+[2020.12.19-10.59.48:355][448]BlueprintLog: New page: Compile Raedy
+[2020.12.19-10.59.48:427][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.12.19-10.59.48:485][448]LogSlate: Took 0.000442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.12.19-11.00.22:098][317]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Coffin_WinBA3B2ABD42BD93C4FFAD1F8A1DD94822.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/UI_Widget/Coffin_Win.uasset'
+[2020.12.19-11.00.22:117][317]AssetCheck: New page: Asset Save: Coffin_Win
+[2020.12.19-11.00.22:117][317]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Coffin_Win.Coffin_Win
+[2020.12.19-11.00.23:381][433]BlueprintLog: New page: Compile Coffin_Win
+[2020.12.19-11.00.23:421][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.12.19-11.00.25:878][657]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Coffin_Win72E06C7243CE2846F8E619A555CA85D6.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/UI_Widget/Coffin_Win.uasset'
+[2020.12.19-11.00.25:891][657]AssetCheck: New page: Asset Save: Coffin_Win
+[2020.12.19-11.00.25:891][657]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Coffin_Win.Coffin_Win
+[2020.12.19-11.00.27:049][764]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.27:049][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.27:067][764]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.27:067][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.29:004][939]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.29:004][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.29:011][939]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.29:011][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.34:569][455]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.34:569][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.34:575][455]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.34:576][455]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.38:015][792]LogSlate: Window 'Raedy' being destroyed
+[2020.12.19-11.00.38:024][792]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.38:024][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.38:052][792]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.38:052][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.44:653][489]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Restart.Restart
+[2020.12.19-11.00.46:709][633]LogSlate: Window 'Restart' being destroyed
+[2020.12.19-11.00.46:718][633]LogSlate: Window 'Restart' being destroyed
+[2020.12.19-11.00.46:721][633]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.46:721][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.46:741][633]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.00.46:741][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.00.54:494][417]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Coffin_Win.Coffin_Win
+[2020.12.19-11.00.58:178][616]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Mummy_Win.Mummy_Win
+[2020.12.19-11.01.26:923][ 31]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Mummy_Win2D13E3BE4EEF286A9D320180A56BF8CE.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/UI_Widget/Mummy_Win.uasset'
+[2020.12.19-11.01.26:941][ 31]AssetCheck: New page: Asset Save: Mummy_Win
+[2020.12.19-11.01.26:942][ 31]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Mummy_Win.Mummy_Win
+[2020.12.19-11.01.31:780][535]BlueprintLog: New page: Compile Mummy_Win
+[2020.12.19-11.01.31:877][535]LogUObjectHash: Compacting FUObjectHashTables data took   4.14ms
+[2020.12.19-11.01.35:038][795]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/Mummy_Win1C6AF75E47275742CFB81F82BBCD300F.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/UI_Widget/Mummy_Win.uasset'
+[2020.12.19-11.01.35:053][795]AssetCheck: New page: Asset Save: Mummy_Win
+[2020.12.19-11.01.35:053][795]LogContentValidation: Display: Validating WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Mummy_Win.Mummy_Win
+[2020.12.19-11.02.43:183][801]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Project_Game/Blueprints/UI_Widget/Raedy.Raedy
+[2020.12.19-11.04.21:641][ 89]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/mummycut_use6C5B02044FC20AFA3BDD2485C8BD1935.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/u/mummycut_use.uasset'
+[2020.12.19-11.04.21:662][ 89]LogSavePackage: Moving '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Saved/coffin_cut_useCC5C26144AEB50631AAA3E9D85F55EE8.tmp' to '../../../../../../Users/Oil/Documents/GitHub/GameDesign2020/Catch_Down_Coffin/Content/Project_Game/Blueprints/u/coffin_cut_use.uasset'
+[2020.12.19-11.04.21:679][ 89]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-11.04.21:679][ 89]LogContentValidation: Display: Validating Texture2D /Game/Project_Game/Blueprints/u/mummycut_use.mummycut_use
+[2020.12.19-11.04.21:679][ 89]LogContentValidation: Display: Validating Texture2D /Game/Project_Game/Blueprints/u/coffin_cut_use.coffin_cut_use
